@@ -30,17 +30,4 @@ Flow charts are typically structured into three basic steps:
 4. **Output**: Displays the sum of the two numbers.
 5. **Stop**: The flowchart ends.
 
-```text
-(Start)
-   |
-   V
-\Enter two numbers (A, B)\
-   |
-   V
-[Add A and B, store result in C]
-   |
-   V
-\Display C\
-   |
-   V
-(Stop)
+![image](https://github.com/user-attachments/assets/9e9919e1-7f5e-476c-9104-e0e37e7b6c3f)
